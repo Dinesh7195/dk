@@ -25,6 +25,9 @@ public class Array22 {
 			}
 			
 			System.out.println(" ");
+			System.out.println(" ");
+			System.out.println(" * * * ");
+			System.out.println(" ");
 		}
 	}	
 	
