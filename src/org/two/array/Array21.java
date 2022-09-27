@@ -9,6 +9,7 @@ public class Array21 {
 		a[0][0] = 1;
 		a[1][1] = 1;
 		a[2][2] = 1;
+		a[0][1] = 10;
 		
 		for (int[] x:a) {
 			
